@@ -88,7 +88,3 @@ For issues or questions:
 - **UI Components**: shadcn/ui & Tailwind CSS
 - **AI Integration**: OpenAI API
 - **Database**: Supabase
-
-## License
-
-This project is licensed under the MIT License.
