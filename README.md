@@ -85,6 +85,5 @@ For issues or questions:
 ## Tech Stack Highlights
 
 - **Frontend**: Next.js 14 with React
-- **UI Components**: shadcn/ui & Tailwind CSS
 - **AI Integration**: OpenAI API
 - **Database**: Supabase
